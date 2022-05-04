@@ -1,0 +1,9 @@
+.services-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.projects {
+  height: 353px;
+  display: grid;
+  align-items: center;
+}
